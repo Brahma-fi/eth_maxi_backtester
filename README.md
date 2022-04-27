@@ -17,4 +17,4 @@ In terms of the python files:
 
 In order to run the backtest for the strategy use the notebook:
 
-- [eth_maxi.ipynb](https://github.com/Brahma-fi/protected_moonshot_backtester/blob/master/moonshots_simple.ipynb) runs the analysis for the backtest and strategy developed explained in the [ETH Maxi Blog Post](https://blog.brahma.fi/launching-protected-moonshot-degenvault/). 
+- [eth_maxi.ipynb](https://github.com/Brahma-fi/protected_moonshot_backtester/blob/master/moonshots_simple.ipynb) runs the analysis for the backtest and strategy developed explained in the [ETH Maxi Blog Post](https://blog.brahma.fi/introducing-eth-maxi-degenvault/). 
